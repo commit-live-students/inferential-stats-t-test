@@ -10,7 +10,7 @@ The data are presented below.
 
     Younger Adults = [34, 22, 15, 27, 37, 41, 24, 19, 26, 36]
 
-### Write a function *t\_test* that:
+### Write a function that:
 
 ##### Takes 3 parameters:
     dataset1: List
